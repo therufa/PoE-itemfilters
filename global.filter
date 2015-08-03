@@ -1,90 +1,90 @@
 Show
-	BaseType 			"Gavel" "Eternal Sword" "Occultist"
-	Rarity				Normal
-	SetFontSize			32
+	BaseType 		"Gavel" "Eternal Sword" "Occultist"
+	Rarity			Normal
+	SetFontSize		32
 
 Show
-	Rarity				>= Rare
+	Rarity			>= Rare
 	SetBackgroundColor	0 0 0 200
 
 Show
-	Class				Flask
-	Rarity				>= Magic
+	Class			Flask
+	Rarity			>= Magic
 
 Show
-	Class				Jewel
+	Class			Jewel
 	SetBorderColor		0 128 255 200
 
 
 Show
-	BaseType "Mirror of Kalandra"
-	SetTextColor 255 0 0
-	SetBorderColor 255 255 0
-	SetBackgroundColor 255 255 255
-	PlayAlertSound 6
+	BaseType 		"Mirror of Kalandra"
+	SetTextColor 		255 0 0
+	SetBorderColor 		255 255 0
+	SetBackgroundColor 	255 255 255
+	PlayAlertSound 		6
 
 Show
-	BaseType			"Exalted Orb"
+	BaseType		"Exalted Orb"
 	SetBackgroundColor	255 0 255 255
 	SetTextColor		0 0 0
-	PlayAlertSound 5
+	PlayAlertSound 		5
 
 Show
-	BaseType			"Eternal Orb"
+	BaseType		"Eternal Orb"
 	SetBackgroundColor	128 255 0 255
 	SetTextColor		0 0 0
-	PlayAlertSound 5
+	PlayAlertSound 		5
 
 Show
-	BaseType			"Chaos Orb"
+	BaseType		"Chaos Orb"
 	SetBackgroundColor	0 255 255 255
 	SetTextColor		0 0 0
-	PlayAlertSound 1
+	PlayAlertSound 		1
 
 Show
-	BaseType			"Vaal Orb"
+	BaseType		"Vaal Orb"
 	SetBackgroundColor	255 0 0 255
 	SetTextColor		0 0 0
-	PlayAlertSound 1
+	PlayAlertSound 		1
 
 Show
-	BaseType			"Fusing"
+	BaseType		"Fusing"
 	SetBackgroundColor	166 166 166 255
 	SetTextColor		0 0 0
-	PlayAlertSound 1
+	PlayAlertSound 		1
 
 Show
-	BaseType			"Divine Orb"
+	BaseType		"Divine Orb"
 	SetBackgroundColor	255 0 0 255
-	PlayAlertSound 1
+	PlayAlertSound 		1
 
 Show
-	Class				Map Currency "Divination Card"
-	SetTextSize			48
+	Class			Map Currency "Divination Card"
+	SetTextSize		48
 
 Show
-	Class				Gem
-	BaseType			"Enlighten" "Empower" "Enhance"
+	Class			Gem
+	BaseType		"Enlighten" "Empower" "Enhance"
 	SetBorderColor		96 0 0 255
 
 Show
-	Class				Gem
-	Quality				>= 1
+	Class			Gem
+	Quality			>= 1
 	SetBackgroundColor	96 0 0 200
 
 Show
-	Class				Gem
-	ItemLevel			>= 15
+	Class			Gem
+	ItemLevel		>= 15
 	SetBackgroundColor	96 0 0 200
 
 Show
-	DropLevel			>= 74
+	DropLevel		>= 74
 	SetBackgroundColor	0 0 0 128
 	SetTextColor		255 255 255 128
-	SetFontSize			24
+	SetFontSize		24
 
 Show
-	Sockets				>= 6
+	Sockets			>= 6
 	SetBackgroundColor	0 0 0 128
 	SetBorderColor		0 0 255 128
 	SetTextColor		128 128 255 193
@@ -95,18 +95,18 @@ Show
 	SetBorderColor		255 255 0 200
 
 Show
-	SocketGroup			RGB
+	SocketGroup		RGB
 	SetBackgroundColor	0 0 0 128
 	SetBorderColor		255 0 255 200
 
 Show
-	BaseType			"Ruby Flask" "Topaz Flask" "Sapphire Flask" "Eternal Life" "Divine Life"
+	BaseType		"Ruby Flask" "Topaz Flask" "Sapphire Flask" "Eternal Life" "Divine Life"
 	SetBorderColor		0 255 0 200
 	SetTextColor		128 255 128 193
-	SetFontSize			24
+	SetFontSize		24
 
 Show
-	Quality 20
-	SetTextColor 153 102 0
+	Quality 		20
+	SetTextColor 		153 102 0
 
 Hide
